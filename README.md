@@ -7,3 +7,4 @@ DADOS: Data SUS
 
 DICIONÁRIO: Data SUS
 
+OBS: Alguens arquivos CSV são muito grandes, por se tratar de uma base unificada em todo o Brasil, portanto não tive êxito em disponibilizar alguns arquivos. 
